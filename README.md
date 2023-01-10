@@ -1,0 +1,1 @@
+Credit: Vector graphics from [Wikipedia](https://en.wikipedia.org/wiki/Connectivity_%28graph_theory%29)

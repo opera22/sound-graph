@@ -1,0 +1,25 @@
+.App {
+  color: rgba(255, 255, 255, 0.96);
+  min-height: 100vh;
+  padding: 25px;
+  display: block;
+}
+
+.body-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.header-container {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-height: 70px;
+}
